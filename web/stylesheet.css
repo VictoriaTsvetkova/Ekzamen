@@ -1,0 +1,29 @@
+.page{
+  background-image: url(image/fon1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.header {
+ text-align: center;
+ font-style: italic;
+ font-family: Monotype Corsiva;
+ font-size: 24pt;
+ text-decoration: underline;
+ font-weight: bold;
+}
+.var1{
+ background: url(image/var1.jpg);
+ background-size: cover;
+ float: left;
+ width: 300px;
+ height: 300px;
+}
+.task{
+ border: 2px solid;
+ right: 1%;
+ left:70%;
+ top:5%;
+ text-align: left;
+ position: absolute;
+}

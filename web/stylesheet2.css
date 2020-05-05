@@ -1,0 +1,29 @@
+.page{
+  background-image: url(image/fon2.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.header {
+ text-align: center;
+ font-style: italic;
+ font-family: Arial;
+ font-size: 24pt;
+ text-decoration: underline;
+ font-weight: bold;
+}
+.var2{
+ background: url(image/var2.jpg);
+ background-size: cover;
+ float: right;
+ width: 300px;
+ height: 300px;
+}
+.task{
+ border: 2px solid;
+ outline: 2px solid red;
+ right: 70%;
+ left:1%;
+ top:5%;
+ text-align: left;
+ position: absolute;
+}
